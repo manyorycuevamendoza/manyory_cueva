@@ -5,6 +5,8 @@
 #a passionate program
 :mortar_board:
 
+atrapando nuevos conocimientos
+
 
 ##
 **estudio**
@@ -45,11 +47,9 @@ para mantenernos en contacto
 - voley:alien:
 
 
+![image](https://user-images.githubusercontent.com/91238621/134551378-e8e69b0c-17cb-4ce7-b1d0-947da6e658e8.png)
 
-
-
-
-
+https://music.youtube.com/
 
 
 
