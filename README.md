@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/91238621/134543345-6fbc61b2-5b6a-445c-b29e-e00f21f1e0d3.png)
 
 
-#a passionate program
+# a passionate program
 :mortar_board:
 
 atrapando nuevos conocimientos
